@@ -1,32 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Landers</h1>
+<h3 align="center">A coder in China.</h3>
 
-<!--
-**Landers1037/landers1037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [NoEngine](https://github.com/Landers1037/NoEngine)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Go, React, Rust**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **Go**
 
-- 🔭 I’m currently working on Golang and React
-- 🌱 I’m currently learning shell and Rust
-- 👯 I’m looking to collaborate on Go
-- 🤔 I’m looking for help with **make people happy**
-- 💬 Ask me about anything
-- 📫 How to reach me: [my site](http://renj.io) [email](mailto:liaorenj@gmail.com)
-- 😄 Steam: Hotwaterman
-<main style="padding: 10px 15px;width: fit-content;background-color: #378de5;border-radius: 20px">
-    <p style="color: white;font-size: 18px;margin-bottom: 5px;margin-top: 10px">🌴 <a href="http://renj.io" style="color: white;text-decoration: none">Renj.io</a></p>
-    <p style="margin: 0;color: #f5f5f5;font-size: 14px">My personal home page.</p>
-    <p style="color: white;font-size: 18px;margin-bottom: 5px;margin-top: 10px">🚀 <a href="https://blog.renj.io" style="color: white;text-decoration: none">Blog.renj.io</a></p>
-    <p style="margin: 0;color: #f5f5f5;font-size: 14px">My Blog in Go.</p>
-    <p style="color: aqua;margin-bottom: 10px;">🙏 Pls follow my github. Thanks</p>
-</main>
+- 🤝 I’m looking for help with **making people feel better**
+
+- 📝 I regularly write articles on [https://blog.renj.io](https://blog.renj.io)
+
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **liaorenj@gmail.com**
+
+- 📄 Know about my experiences [http://me.renj.io](http://me.renj.io)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/landers1037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="landers1037" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=landers1037&show_icons=true&locale=en&layout=compact" alt="landers1037" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=landers1037&show_icons=true&locale=en" alt="landers1037" /></p>
