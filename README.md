@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: [my site](http://renj.io) [email](mailto:liaorenj@gmail.com)
 - 😄 Steam: Hotwaterman
-<div style="padding: 10px 15px;width: fit-content;background-color: #378de5;border-radius: 20px">
+<main style="padding: 10px 15px;width: fit-content;background-color: #378de5;border-radius: 20px">
     <p style="color: white;font-size: 18px;margin-bottom: 5px;margin-top: 10px">🌴 <a href="http://renj.io" style="color: white;text-decoration: none">Renj.io</a></p>
     <p style="margin: 0;color: #f5f5f5;font-size: 14px">My personal home page.</p>
     <p style="color: white;font-size: 18px;margin-bottom: 5px;margin-top: 10px">🚀 <a href="https://blog.renj.io" style="color: white;text-decoration: none">Blog.renj.io</a></p>
     <p style="margin: 0;color: #f5f5f5;font-size: 14px">My Blog in Go.</p>
-    <p style="color: aqua">🙏 Pls follow my github. Thanks</p>
-</div>
+    <p style="color: aqua;margin-bottom: 10px;">🙏 Pls follow my github. Thanks</p>
+</main>
