@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Landers</h1>
 <h3 align="center">A coder in China.</h3>
 
-- 🔭 I’m currently working on [NoEngine](https://github.com/Landers1037/NoEngine)
-
-- 🌱 I’m currently learning **Go, React, Rust**
+- 🌱 I’m currently learning **Go, Rust**
 
 - 👯 I’m looking to collaborate on **Go**
 
