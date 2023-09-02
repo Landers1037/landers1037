@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Landers</h1>
-<h3 align="center">A coder in China.</h3>
+<h3 align="center">A developer in China.</h3>
 
-- 🌱 I’m currently learning **Go, Rust**
-
-- 👯 I’m looking to collaborate on **Go**
-
-- 🤝 I’m looking for help with **making people feel better**
+- 🌱 I’m currently working as a security tester
 
 - 📝 I regularly write articles on [https://blog.renj.io](https://blog.renj.io)
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **liaorenj@gmail.com**
 
 - 📄 Know about my experiences [http://me.renj.io](http://me.renj.io)
 
