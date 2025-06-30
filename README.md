@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Landers</h1>
 <h3 align="center">A developer in China.</h3>
 
-- 🌱 I’m currently working as a security tester
+- 🌱 I’m currently working as a Go developer
 
 - 📝 I regularly write articles on [https://blog.renj.io](https://blog.renj.io)
 
